@@ -10,5 +10,5 @@ This step is very memory intensive, So I took it apart
 And copy some code from http://practicalcheminformatics.blogspot.com/2020/03/building-on-fragments-from-diamondxchem_30.html
 
 ## rd_gen_restricted_confs_mpi.py
-1. modified from https://github.com/PatWalters/fragment_expansion/blob/master/rdkit_eval/rd_gen_restricted_confs.py
-2. add multiple CPU runs
+1. borrowed from https://github.com/PatWalters/fragment_expansion/blob/master/rdkit_eval/rd_gen_restricted_confs.py
+2. multiple CPU runs
